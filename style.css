@@ -1,0 +1,28 @@
+
+body{
+    background-color: #393E46;
+}
+.container{
+    text-align: center;
+    color: #4ECCA3;
+    font-family: 'Lobster', cursive;
+}
+#title{
+    padding: 0;
+    margin: 0;
+    margin-bottom: 40px;
+    font-size: 8rem;
+}
+.dice{
+    display: inline-block;
+    padding-right: 30px;
+}
+p{
+    font-size: 2rem;
+    font-family: 'Dancing Script', cursive;
+}
+
+footer{
+    text-align: center;
+    color: #9cc4b6;
+}
